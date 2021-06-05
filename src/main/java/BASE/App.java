@@ -1,5 +1,10 @@
 package BASE;
 
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Miguel Nobrega
+ */
+
 //Exercise 7 - Area of a Rectangular Room
 //When working in a global environment, you’ll have to present information in both metric and Imperial units. And you’ll need to know when to do the conversion to ensure the most accurate results.
 //
